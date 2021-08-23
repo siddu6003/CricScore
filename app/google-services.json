@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441551623776",
+    "firebase_url": "https://ipl-guru-78b04-default-rtdb.firebaseio.com",
+    "project_id": "ipl-guru-78b04",
+    "storage_bucket": "ipl-guru-78b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441551623776:android:1875a5140820485b7b5505",
+        "android_client_info": {
+          "package_name": "com.example.iplguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441551623776-n31k1ueild6m66kctfdshipc47d4v3ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iplguru",
+            "certificate_hash": "a2c8ac15945a5e227810de8b149cf32e6e3a16ad"
+          }
+        },
+        {
+          "client_id": "441551623776-rahpr845lpcr55ovkvs42o9d4cdm1tpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4MxUze3P0pQVf7_l963iKi8gPDFtQMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441551623776-rahpr845lpcr55ovkvs42o9d4cdm1tpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

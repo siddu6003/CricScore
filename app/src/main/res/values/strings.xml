@@ -1,0 +1,482 @@
+<resources>
+    <string name="app_name">IPL GURU</string>
+    <string-array name="home">
+        <item>MI</item>
+        <item>CSK</item>
+        <item>SRH</item>
+        <item>RR</item>
+        <item>KKR</item>
+        <item>SRH</item>
+        <item>RR</item>
+        <item>PBKS</item>
+        <item>MI</item>
+        <item>RCB</item>
+        <item>DC</item>
+        <item>CSK</item>
+        <item>DC</item>
+        <item>PBKS</item>
+        <item>KKR</item>
+        <item>RCB</item>
+        <item>PBKS</item>
+        <item>RR</item>
+        <item>CSK</item>
+        <item>SRH</item>
+        <item>PBKS</item>
+        <item>DC</item>
+        <item>CSK</item>
+        <item>MI</item>
+        <item>DC</item>
+        <item>PBKS</item>
+        <item>MI</item>
+        <item>RR</item>
+        <item>PBKS</item>
+        <item>KKR</item>
+        <item>SRH</item>
+        <item>RR</item>
+        <item>RCB</item>
+        <item>SRH</item>
+        <item>KKR</item>
+        <item>RR</item>
+        <item>CSK</item>
+        <item>RCB</item>
+        <item>MI</item>
+        <item>DC</item>
+        <item>CSK</item>
+        <item>MI</item>
+        <item>SRH</item>
+        <item>RCB</item>
+        <item>KKR</item>
+        <item>RR</item>
+        <item>CSK</item>
+        <item>DC</item>
+        <item>KKR</item>
+        <item>SRH</item>
+        <item>RCB</item>
+        <item>KKR</item>
+        <item>DC</item>
+        <item>PBKS</item>
+        <item>MI</item>
+        <item>RCB</item>
+        <item>TBD</item>
+        <item>TBD</item>
+        <item>TBD</item>
+        <item>TBD</item>
+    </string-array>
+    <string-array name="away">
+        <item>RCB</item>
+        <item>DC</item>
+        <item>KKR</item>
+        <item>PBKS</item>
+        <item>MI</item>
+        <item>RCB</item>
+        <item>DC</item>
+        <item>CSK</item>
+        <item>SRH</item>
+        <item>KKR</item>
+        <item>PBKS</item>
+        <item>RR</item>
+        <item>MI</item>
+        <item>SRH</item>
+        <item>CSK</item>
+        <item>RR</item>
+        <item>MI</item>
+        <item>KKR</item>
+        <item>RCB</item>
+        <item>DC</item>
+        <item>KKR</item>
+        <item>RCB</item>
+        <item>SRH</item>
+        <item>RR</item>
+        <item>KKR</item>
+        <item>RCB</item>
+        <item>CSK</item>
+        <item>SRH</item>
+        <item>DC</item>
+        <item>RCB</item>
+        <item>MI</item>
+        <item>CSK</item>
+        <item>PBKS</item>
+        <item>CSK</item>
+        <item>DC</item>
+        <item>MI</item>
+        <item>PBKS</item>
+        <item>SRH</item>
+        <item>KKR</item>
+        <item>RR</item>
+        <item>KKR</item>
+        <item>PBKS</item>
+        <item>RR</item>
+        <item>DC</item>
+        <item>PBKS</item>
+        <item>RCB</item>
+        <item>MI</item>
+        <item>SRH</item>
+        <item>RR</item>
+        <item>PBKS</item>
+        <item>MI</item>
+        <item>SRH</item>
+        <item>CSK</item>
+        <item>RR</item>
+        <item>DC</item>
+        <item>CSK</item>
+        <item>TBD</item>
+        <item>TBD</item>
+        <item>TBD</item>
+        <item>TBD</item>
+    </string-array>
+    <string-array name="date">
+        <item>9-APR-21 07:30 PM CHENNAI</item>
+        <item>10-APR-21 07:30 PM MUMBAI</item>
+        <item>11-APR-21 07:30 PM CHENNAI</item>
+        <item>12-APR-21 07:30 PM MUMBAI</item>
+        <item>13-APR-21 07:30 PM CHENNAI</item>
+        <item>14-APR-21 07:30 PM CHENNAI</item>
+        <item>15-APR-21 07:30 PM MUMBAI</item>
+        <item>16-APR-21 07:30 PM MUMBAI</item>
+        <item>17-APR-21 07:30 PM CHENNAI</item>
+        <item>18-APR-21 03:30 PM CHENNAI</item>
+        <item>18-APR-21 07:30 PM MUMBAI</item>
+        <item>19-APR-21 07:30 PM MUMBAI</item>
+        <item>20-APR-21 07:30 PM CHENNAI</item>
+        <item>21-APR-21 03:30 PM CHENNAI</item>
+        <item>21-APR-21 07:30 PM MUMBAI</item>
+        <item>22-APR-21 07:30 PM MUMBAI</item>
+        <item>23-APR-21 07:30 PM CHENNAI</item>
+        <item>24-APR-21 07:30 PM MUMBAI</item>
+        <item>25-APR-21 03:30 PM MUMBAI</item>
+        <item>25-APR-21 07:30 PM CHENNAI</item>
+        <item>26-APR-21 07:30 PM AHMEDABAD</item>
+        <item>27-APR-21 07:30 PM AHMEDABAD</item>
+        <item>28-APR-21 07:30 PM DELHI </item>
+        <item>29-APR-21 03:30 PM DELHI</item>
+        <item>29-APR-21 07:30 PM AHMEDABAD</item>
+        <item>30-APR-21 07:30 PM AHMEDABAD</item>
+        <item>1-MAY-21 07:30 PM DELHI </item>
+        <item>2-MAY-21 03:30 PM DELHI</item>
+        <item>2-MAY-21 07:30 PM AHMEDABAD</item>
+        <item>3-MAY-21 07:30 PM AHMEDABAD</item>
+        <item>4-MAY-21 07:30 PM DELHI</item>
+        <item>5-MAY-21 07:30 PM DELHI</item>
+        <item>6-MAY-21 07:30 PM AHMEDABAD</item>
+        <item>7-MAY-21 07:30 PM DELHI</item>
+        <item>8-MAY-21 03:30 PM AHMEDABAD</item>
+        <item>8-MAY-21 07:30 PM DELHI </item>
+        <item>9-MAY-21 03:30 PM BANGALORE</item>
+        <item>9-MAY-21 07:30 PM KOLKATA</item>
+        <item>10-MAY-21 07:30 PM BANGALORE</item>
+        <item>11-MAY-21 07:30 PM KOLKATA</item>
+        <item>12-MAY-21 07:30 PM BANGALORE</item>
+        <item>13-MAY-21 03:30 PM BANGALORE</item>
+        <item>13-MAY-21 07:30 PM KOLKATA</item>
+        <item>14-MAY-21 07:30 PM KOLKATA</item>
+        <item>15-MAY-21 07:30 PM BANGALORE</item>
+        <item>16-MAY-21 03:30 PM KOLKATA</item>
+        <item>16-MAY-21 07:30 PM BANGALORE </item>
+        <item>17-MAY-21 07:30 PM KOLKATA</item>
+        <item>18-MAY-21 07:30 PM BANGALORE</item>
+        <item>19-MAY-21 07:30 PM BANGALORE</item>
+        <item>20-MAY-21 07:30 PM KOLKATA</item>
+        <item>21-MAY-21 03:30 PM BANGALORE</item>
+        <item>21-MAY-21 07:30 PM KOLKATA</item>
+        <item>22-MAY-21 07:30 PM BANGALORE</item>
+        <item>23-MAY-21 03:30 PM KOLKATA</item>
+        <item>23-MAY-21 07:30 PM KOLKATA</item>
+        <item>25-MAY-21 07:30 PM AHMEDABAD </item>
+        <item>26-MAY-21 07:30 PM AHMEDABAD </item>
+        <item>28-MAY-21 07:30 PM AHMEDABAD </item>
+        <item>30-MAY-21 07:30 PM AHMEDABAD </item>
+    </string-array>
+    <string-array name="match">
+        <item>match 1</item>
+        <item>match 2</item>
+        <item>match 3</item>
+        <item>match 4</item>
+        <item>match 5</item>
+        <item>match 6</item>
+        <item>match 7</item>
+        <item>match 8</item>
+        <item>match 9</item>
+        <item>match 10</item>
+        <item>match 11</item>
+        <item>match 12</item>
+        <item>match 13</item>
+        <item>match 14</item>
+        <item>match 15</item>
+        <item>match 16</item>
+        <item>match 17</item>
+        <item>match 18</item>
+        <item>match 19</item>
+        <item>match 20</item>
+        <item>match 21</item>
+        <item>match 22</item>
+        <item>match 23</item>
+        <item>match 24</item>
+        <item>match 25</item>
+        <item>match 26</item>
+        <item>match 27</item>
+        <item>match 28</item>
+        <item>match 29</item>
+        <item>match 30</item>
+        <item>match 31</item>
+        <item>match 32</item>
+        <item>match 33</item>
+        <item>match 34</item>
+        <item>match 35</item>
+        <item>match 36</item>
+        <item>match 37</item>
+        <item>match 38</item>
+        <item>match 39</item>
+        <item>match 40</item>
+        <item>match 41</item>
+        <item>match 42</item>
+        <item>match 43</item>
+        <item>match 44</item>
+        <item>match 45</item>
+        <item>match 46</item>
+        <item>match 47</item>
+        <item>match 48</item>
+        <item>match 49</item>
+        <item>match 50</item>
+        <item>match 51</item>
+        <item>match 52</item>
+        <item>match 53</item>
+        <item>match 54</item>
+        <item>match 55</item>
+        <item>match 56</item>
+        <item>QUALIFIER 1</item>
+        <item>ELIMINATOR</item>
+        <item>QUALIFIER 2</item>
+        <item>FINAL</item>
+    </string-array>
+    <string-array name="teams">
+        <item>CHENNAI SUPER KINGS</item>
+        <item>DELHI CAPITALS</item>
+        <item>KOLKATA KNIGHT RIDERS</item>
+        <item>MUMBAI INDIANS</item>
+        <item>PUNJAB KINGS</item>
+        <item>ROYAL CHALLENGERS BANGALORE</item>
+        <item>RAJASTHAN ROYALS</item>
+        <item>SUNRISERS HYDERABAD</item>
+    </string-array>
+    <string-array name="champs">
+        <item>CHAMPIONS : 2010,2011,2018</item>
+        <item>NO TITLE</item>
+        <item>CHAMPIONS : 2012,2014</item>
+        <item>CHAMPIONS : 2013,2015,2017,2019,2020</item>
+        <item>NO TITLE</item>
+        <item>NO TITLE</item>
+        <item>CHAMPIONS : 2008</item>
+        <item>CHAMPIONS : 2016</item>
+    </string-array>
+    <string-array name="csk">
+        <item>MS Dhoni (c,wk)</item>
+        <item>Bhagath Varma</item>
+        <item>Imran Tahir</item>
+        <item>Hari Shankar Reddy</item>
+        <item>Ruturaj Gaikwad</item>
+        <item>Moeen Ali</item>
+        <item>C Hari Nishaanth</item>
+        <item>Ravindra Jadeja</item>
+        <item>Deepak Chahar</item>
+        <item>Narayan Jagadeesan</item>
+        <item>Suresh Raina</item>
+        <item>KM Asif</item>
+        <item>Shardul Thakur</item>
+        <item>R Sai Kishore</item>
+        <item>Faf du Plessis</item>
+        <item>Dwayne Bravo</item>
+        <item>Josh Hazlewood</item>
+        <item>Cheteshwar Pujara</item>
+        <item>Karn Sharma</item>
+        <item>Lungi Ngidi</item>
+        <item>Ambati Rayudu</item>
+        <item>Mitchell Santner</item>
+        <item>Krishnappa Gowtham</item>
+        <item>Sam Curran</item>
+        <item>Robin Uthappa</item>
+    </string-array>
+    <string-array name="dc">
+        <item>Shreyas Iyer (c)</item>
+        <item>Kagiso Rabada</item>
+        <item>Marcus Stoinis</item>
+        <item>Sam Billings</item>
+        <item>Ajinkya Rahane</item>
+        <item>Chris Woakes</item>
+        <item>Ravi Chandran Ashwin</item>
+        <item>Steve Smith</item>
+        <item>M Siddharth</item>
+        <item>Vishnu Vinod</item>
+        <item>Lalith Yadav</item>
+        <item>Avesh Khan</item>
+        <item>Axar Patel</item>
+        <item>Rishab pant</item>
+        <item>Amit Mishra</item>
+        <item>Ishanth Sharma</item>
+        <item>Ripal Patel</item>
+        <item>Shikhar Dhawan</item>
+        <item>Shimron Hetmyer</item>
+        <item>Pravin Dubey</item>
+        <item>Prithvi Shaw</item>
+        <item>Anrich Nortje</item>
+        <item>Umesh Yadav</item>
+        <item>Lukman Meriwala</item>
+        <item>Tom Curran</item>
+    </string-array>
+    <string-array name="kkr">
+        <item>Eoin Morgan (C)</item>
+        <item>Karun Nair</item>
+        <item>Nitish Rana</item>
+        <item>Shubman Gill </item>
+        <item>Rinku Singh</item>
+        <item>Rahul Tripathi</item>
+        <item>Dinesh Karthik </item>
+        <item>Sheldon Jackson</item>
+        <item>Sunil Narine</item>
+        <item>Andre Russell</item>
+        <item>Shakib Al Hasan</item>
+        <item>Ben Cutting</item>
+        <item>Pawan Negi</item>
+        <item>Venkatesh Iyer</item>
+        <item>Pat Cummins </item>
+        <item>Tim Seifert</item>
+        <item>Varun Chakaravarthy</item>
+        <item>Lockie Ferguson</item>
+        <item>Kuldeep Yadav</item>
+        <item>Kamlesh Nagarkoti </item>
+        <item>Shivam Mavi </item>
+        <item>Prasidh Krishna</item>
+        <item>Sandeep Warrier</item>
+        <item>Harbhajan Singh</item>
+        <item>Vaibhav Arora</item>
+    </string-array>
+    <string-array name="mi">
+        <item>Rohit Sharma(C)</item>
+        <item>Quinton de kock</item>
+        <item>Arjun Tendulkar</item>
+        <item>Nathan Coulter-Nile</item>
+        <item>Trent Boult</item>
+        <item>Jimmy Neesham</item>
+        <item>Jayanth Yadav</item>
+        <item>Piyush Chawla</item>
+        <item>Kieron Pollard</item>
+        <item>Anmolpreet Singh</item>
+        <item>Mohsin Khan</item>
+        <item>Yudhvir Charak</item>
+        <item>Ishan Kishan</item>
+        <item>Aditya Tare</item>
+        <item>Saurabh Tiwary</item>
+        <item>Jasprith Bumrah</item>
+        <item>Dhawal Kulkarni</item>
+        <item>Surykumar Yadav</item>
+        <item>Macro Jansen</item>
+        <item>Krunal Pandya</item>
+        <item>Adam Milne</item>
+        <item>Chris Lynn</item>
+        <item>Rahul Chahar</item>
+        <item>Hardik Pandya</item>
+        <item>Ankul Roy</item>
+    </string-array>
+    <string-array name="pbks">
+        <item>KL RAHUL (c)(wk)</item>
+        <item>Harpreet Brar</item>
+        <item>Ishan Porel</item>
+        <item>Utkarsh Singh</item>
+        <item>Moises Henriques</item>
+        <item>Jhye Richardson</item>
+        <item>Mandeep Singh</item>
+        <item>Chris Jordan</item>
+        <item>Deepak Hooda</item>
+        <item>Ravi Bishnoi</item>
+        <item>Riley Meredith</item>
+        <item>Arshdeep Singh</item>
+        <item>Sarfaraz Khan</item>
+        <item>Mayank Agarwal</item>
+        <item>Mohammad Shami</item>
+        <item>Darshan Nalkande</item>
+        <item>Shahrukh Khan</item>
+        <item>Nicholas Pooran</item>
+        <item>Fabian Allen</item>
+        <item>Chris Gayle</item>
+        <item>Murugan Ashwin</item>
+        <item>Dawid Malan</item>
+        <item>Prabhsimran Singh</item>
+        <item>Saurabh Kumar</item>
+        <item>Jalaj Saxenaa</item>
+    </string-array>
+    <string-array name="rcb">
+        <item>Virat Kohli (C)</item>
+        <item>Mohammed Siraj</item>
+        <item>AB de villiers</item>
+        <item>Daniel Sams</item>
+        <item>Shabaz Ahmed</item>
+        <item>Finn Allen</item>
+        <item>K.S Bharat</item>
+        <item>Yuzvendra Chahal</item>
+        <item>Navdeep Saini</item>
+        <item>Kyle Jamieson</item>
+        <item>Dan Christian</item>
+        <item>Devdutt Padikkal</item>
+        <item>Glenn Maxwell</item>
+        <item>Suyash Prabhudessai</item>
+        <item>Sachin Baby</item>
+        <item>Pavan Deshpande</item>
+        <item>Washington Sundar</item>
+        <item>Harshal Patel</item>
+        <item>Adam Zampa</item>
+        <item>Kane Richardson</item>
+        <item>Rajat Patidar</item>
+        <item>Mohammed Azharuddeen</item>
+    </string-array>
+    <string-array name="rr">
+        <item>Sanju Samson (C)</item>
+        <item>Kuldip Yadav</item>
+        <item>Ben Stokes</item>
+        <item>Yashasvi Jaiswal</item>
+        <item>Anuj Rawat</item>
+        <item>Chris Morris</item>
+        <item>Andrew Tye</item>
+        <item>Akash Singh</item>
+        <item>Kartik Tyagi</item>
+        <item>Jofra Archer</item>
+        <item>Shreyas Gopal</item>
+        <item>Rahul Tewatia</item>
+        <item>Jaydev Unadkat</item>
+        <item>Chetan Sakariya</item>
+        <item>Mayank Markande</item>
+        <item>Shivam Dube</item>
+        <item>KC Cariappa</item>
+        <item>Mahipal Lomror</item>
+        <item>Mustafizur Rahman</item>
+        <item>David Miller</item>
+        <item>Liam Livingstone</item>
+        <item>Jos Buttler</item>
+        <item>Manam Vohra</item>
+        <item>Riyan Parag</item>
+    </string-array>
+    <string-array name="srh">
+        <item>David Warner (C)</item>
+        <item>Rashid Khan</item>
+        <item>Wriddhiman Saha</item>
+        <item>Khaleel Ahmed</item>
+        <item>Abdul Samad</item>
+        <item>Sandeep Sharma</item>
+        <item>Mujeeb Ur Rahman</item>
+        <item>Mitchell Marsh</item>
+        <item>Shreevats Goswami</item>
+        <item>Kedar Jadhav</item>
+        <item>Mohammad Nabi</item>
+        <item>Abhishek Sharma</item>
+        <item>Basil Thampi</item>
+        <item>Jason Holder</item>
+        <item>Bhuvneshwar Kumar</item>
+        <item>Jagadeesha Suchith</item>
+        <item>Virat Singh</item>
+        <item>T Natarajan</item>
+        <item>Kane Williamson</item>
+        <item>Jonny Bairstow</item>
+        <item>Manish Pandey</item>
+        <item>Vijay Shankar</item>
+        <item>Siddharth Kaul</item>
+        <item>Priyam Garg</item>
+    </string-array>
+</resources>
