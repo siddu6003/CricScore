@@ -1,7 +1,5 @@
 # IPL_GURU
 Live Cricket Score App.Built using Firebase and java
-APK link :
-https://drive.google.com/file/d/1qVQMHR_1oUJNpVr5i-GbyQSJdQRtT6mF/view?usp=sharing
 Features :
 There are mainly six features in this app.Note : this is not the final version of the app it is
 still in development.
