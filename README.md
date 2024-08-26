@@ -1,4 +1,4 @@
-# IPL_GURU
+# Cric Score
 Live Cricket Score App.Built using Firebase and java
 Features :
 There are mainly six features in this app.Note : this is not the final version of the app it is
